@@ -2,9 +2,9 @@
 
  ![](https://komarev.com/ghpvc/?username=sunnyarafat21)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sunnyarafat21=anuraghazra&theme=material-palenight&show_icons=true)
-
-[![trophy](https://github-profile-trophy.vercel.app/?sunnyarafat21=ryo-ma&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 [![MasterHead](https://img.freepik.com/free-vector/creative-square-logo-vector-template_460848-13897.jpg?w=740&t=st=1676966260~exp=1676966860~hmac=68e65d0f480f518f58dc8a51f70fdd69cdcfd58cfb8d92ff26f3e1037d153dc7)](https://github.com/sunnyarafat21)
 
@@ -18,8 +18,8 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<div>
+<h3 align="center">Languages and Tools:</h3>
+<div   align="center" >
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
