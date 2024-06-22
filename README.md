@@ -1,5 +1,5 @@
 <h1 align="center">Hey ! i'm Sunny Arafat 🤵</h1>
-<h3 align="center">React and MERN Developer</h3>
+<h3 align="center"> Web Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sunnyarafat21&label=Profile%20views&color=0e75b6&style=flat" alt="sunnyarafat21" /> </p>
 
