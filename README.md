@@ -4,13 +4,15 @@
     align="center"
     style="width: 100%"
     height="400px"
+    backgroun-size="cover"
+    background-position="center"
   />
 </div>
 <div align="center">I'm Md Yasir Arafat, a full-stack web Developer</div>
 
 <div align="center" font-weight="bold">⚡I usually work with MERN stack</div>
-## My Skill Set
-<table border="none">
+<div align="center" font-weight="bold">Technologies</div>
+<table border="none" outline="none">
   <tr>
     <td valign="top" width="33%">
       <p align="center" font-weight="bold">Frontend</p>
@@ -130,7 +132,7 @@
 
 <br />
 
-## Connect with me
+<div align="center" font-weight="bold">social</div>
 <div align="right">
   <a href="https://github.com/sunnyarafat21" target="_blank">
     <img
